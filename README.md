@@ -59,6 +59,7 @@ Most of my professional work ships under clients' and employers' store accounts,
 
 | Repository | What it shows |
 |---|---|
+| [**prize-bond-checker**](https://github.com/DevWahabBaloch/prize-bond-checker) | Final-year project (A+): an offline-first app with ML Kit OCR scanning, a Hive data layer, background auto-checking, notifications and PDF export |
 | [**aibuddy**](https://github.com/DevWahabBaloch/aibuddy) | AI chat assistant using the Gemini API, with Firebase Auth (email and Google sign-in), saved conversations and GetX |
 | [**matchify**](https://github.com/DevWahabBaloch/matchify) | Clean Architecture (data/domain/presentation), BLoC/Cubit, get_it dependency injection and Dio networking |
 | [**api_with_bloc**](https://github.com/DevWahabBaloch/api_with_bloc) | Multi-step REST sign-up flow: role-based registration, email OTP verification and password setup, with Cubit and auto_route |
@@ -72,4 +73,4 @@ Most of my professional work ships under clients' and employers' store accounts,
 
 **BS Software Engineering**, Virtual University of Pakistan · 2021 – 2026 · CGPA 3.38/4.0
 
-**Final-year project: Prize Bond Checker (Flutter), graded 4.0/4.0 (A+).** An offline-first app that verifies Pakistani prize bond draws across 8 denominations. It reads bond numbers in real time with Google ML Kit OCR on a live camera stream, stores data locally in Hive with background auto-checking, and adds PIN authentication with SHA-256 hashing, bulk TXT/CSV verification and PDF export.
+**Final-year project: [Prize Bond Checker](https://github.com/DevWahabBaloch/prize-bond-checker) (Flutter), graded 4.0/4.0 (A+).** An offline-first app that verifies Pakistani prize bond draws across 8 denominations. It reads bond numbers in real time with Google ML Kit OCR on a live camera stream, stores data locally in Hive with background auto-checking, and adds PIN authentication with SHA-256 hashing, bulk TXT/CSV verification and PDF export.
